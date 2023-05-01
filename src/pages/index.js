@@ -17,12 +17,12 @@ function App() {
     <div className="mt-10 max-w-3xl mx-auto">
     <h1 className="text-3xl">Lennard</h1>
 
-    <p>Hey! I&apos;m Lennard, a passionate builder. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design.</p>
+    <p>Hey! I&apos;m Lennard, a passionate software builder born in 2005. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design.</p>
 
     <br />
 
     <div>
-      <p className="text-underline underline-offset-5 text-xl underline font-clarika">Some projects I built:</p>
+      <p className="underline-offset-5 text-xl underline">Some projects I built:</p>
 
       <div>
         <div>
@@ -43,7 +43,7 @@ function App() {
       <p className="underline-offset-5 text-xl underline">Stuff I&apos;m hacking on:</p>
 
       <div>
-        I currently deliver <a className="text-blue-600">contracting work</a> to many clients around the world, mainly <a className="text-blue-600">providing full-stack and custom AI splutions</a>.
+        I currently deliver <a className="text-blue-600">contracting work</a> to many clients around the world, mainly <a className="text-blue-600">providing full-stack and custom AI solutions</a>.
 
         <br />
         <br />
