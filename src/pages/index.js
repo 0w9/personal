@@ -22,7 +22,7 @@ function App() {
     <br />
 
     <div>
-      <p classNameName="underline-offset-5 text-xl underline">Some projects I built:</p>
+      <p className="text-underline underline-offset-5 text-xl underline font-clarika">Some projects I built:</p>
 
       <div>
         <div>
