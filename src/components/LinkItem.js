@@ -1,3 +1,5 @@
+import { IconExternalLink } from "@tabler/icons-react";
+
 function LinkItem({ text, url }) {
     return (
       <a href={url} className="text-blue-600 hover:text-blue-800 flex items-center">

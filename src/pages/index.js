@@ -1,10 +1,23 @@
+import { IconExternalLink } from "@tabler/icons-react";
+
+const LinkItem = ({ href, children }) => {
+  return (
+    <a
+      href={href}
+      className="text-blue-500 hover:text-blue-700 transition-transform hover:-translate-x-1"
+    >
+      <span className="mr-4 transition-transform hover:-translate-x-1">{children}</span>
+      <IconExternalLink size={18} />
+    </a>
+  );
+};
 
 function App() {
   return (
   <div className="ml-10 mt-10">
     <h1 className="text-3xl">Lennard</h1>
 
-    <p>Hey! I'm Lennard, a passionate builder. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design.</p>
+    <p>Hey! I&apos;m Lennard, a passionate builder. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design.</p>
 
     <br />
 
@@ -16,10 +29,10 @@ function App() {
           <li>
             <a href="/one-liner" className="text-blue-600 hover:underline"> OneLiner (1.5k users) </a>
 
-            was a Figma plugin that allows you to create copywriting for your startup's landing page. It was featured in Ben's Bites.
+            was a Figma plugin that allows you to create copywriting for your startup&apos;s landing page. It was featured in Ben&apos;s Bites.
           </li>
 
-          <li><a href="/feed-ai" className="text-blue-600 hover:underline">FeedAI (2.7k users) </a> a small webapp I created for the LeapAI hackathon. I also won it, getting featued in Ben's Bites. FeedAI allowed users to train an AI model on their Instagram posts, to create images that are similar. Sadly it was never approved by Facebook.</li>
+          <li><a href="/feed-ai" className="text-blue-600 hover:underline">FeedAI (2.7k users) </a> a small webapp I created for the LeapAI hackathon. I also won it, getting featued in Ben&apos;s Bites. FeedAI allowed users to train an AI model on their Instagram posts, to create images that are similar. Sadly it was never approved by Facebook.</li>
         </div>
       </div>
     </div>
@@ -27,7 +40,7 @@ function App() {
     <br />
 
     <div>
-      <p className="underline-offset-5 text-xl underline">Stuff I'm hacking on:</p>
+      <p className="underline-offset-5 text-xl underline">Stuff I&apos;m hacking on:</p>
 
       <div>
         I currently deliver <a className="text-blue-600">contracting work</a> to many clients around the world, mainly <a className="text-blue-600">providing full-stack and custom AI splutions</a>.
