@@ -14,7 +14,7 @@ const LinkItem = ({ href, children }) => {
 
 function App() {
   return (
-  <div className="ml-10 mt-10">
+    <div className="mt-10 max-w-3xl mx-auto">
     <h1 className="text-3xl">Lennard</h1>
 
     <p>Hey! I&apos;m Lennard, a passionate builder. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design.</p>
