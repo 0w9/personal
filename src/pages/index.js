@@ -53,7 +53,7 @@ function App() {
         <br />
         <br />
 
-        In my freetime I also hack on <a className="text-blue-600">custom keyboards</a>, where I play with QMK and also am creating my first own PCB. This is a topic, like <a className="text-blue-600">embedded engineering</a>, that I would like to explore.
+        In my freetime I also hack on a <a className="text-blue-600">custom keyboard</a>, where I play with QMK and also am creating my first own PCB. This is a topic, like <a className="text-blue-600">embedded engineering</a>, that I would like to explore.
 
         <br />
         <br />
