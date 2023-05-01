@@ -1,16 +1,3 @@
-import { IconExternalLink } from "@tabler/icons-react";
-
-const LinkItem = ({ href, children }) => {
-  return (
-    <a
-      href={href}
-      className="text-blue-500 hover:text-blue-700 transition-transform hover:-translate-x-1"
-    >
-      <span className="mr-4 transition-transform hover:-translate-x-1">{children}</span>
-      <IconExternalLink size={18} />
-    </a>
-  );
-};
 
 function App() {
   return (
