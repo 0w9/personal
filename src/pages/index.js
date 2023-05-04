@@ -42,12 +42,12 @@ function App() {
         <div>
           <div>
             <li>
-              <a href="/" className="text-blue-600 hover:underline"> OneLiner (1.5k users) </a>
+              <Link href="/" className="text-blue-600 hover:underline"> OneLiner (1.5k users) </Link>
 
               was a Figma plugin that allows you to create copywriting for your startup&apos;s landing page. It was featured in Ben&apos;s Bites.
             </li>
 
-            <li><a href="/" className="text-blue-600 hover:underline">FeedAI (2.7k users) </a> a small webapp I created for the LeapAI hackathon. I also won it, getting featued in Ben&apos;s Bites. FeedAI allowed users to train an AI model on their Instagram posts, to create images that are similar. Sadly it was never approved by Facebook.</li>
+            <li><Link href="/" className="text-blue-600 hover:underline">FeedAI (2.7k users) </Link> a small webapp I created for the LeapAI hackathon. I also won it, getting featued in Ben&apos;s Bites. FeedAI allowed users to train an AI model on their Instagram posts, to create images that are similar. Sadly it was never approved by Facebook.</li>
           </div>
         </div>
       </div>
