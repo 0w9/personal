@@ -18,7 +18,6 @@ function App() {
     <div className="mt-10 max-w-3xl mx-auto px-10">
       <div class="flex justify-between items-center text-3xl">
         <span className="decoration-double text-3xls">Lennard</span>
-        <span className="text-xl">📍 Kiel, Germany </span>
       </div>
 
       <br />
