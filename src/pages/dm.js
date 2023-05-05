@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="mt-10 max-w-3xl mx-auto px-10">
       <div class="flex justify-between items-center text-3xl">
-        <span className="decoration-double text-3xls">Lennard</span>
+        <span className="decoration-double text-3xls">How to properly DM</span>
       </div>
 
       <br />
@@ -12,6 +12,14 @@ function App() {
       <p>Hey! I&apos;m Lennard, a passionate software builder born in 2005. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design. To keep this intro short, you can find more details <span className="text-blue-600 hover:underline"><Link href={"/"}>here</Link></span>.</p>
 
       <br />
+
+      <div>
+        <p className="underline-offset-5 text-xl underline">Some projects I built:</p>
+
+        <div>
+
+        </div>
+        </div>
       <br />
 
       <div>
