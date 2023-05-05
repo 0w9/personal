@@ -48,7 +48,7 @@ function App() {
 
             <br />
 
-            <p>Sometimes you just get <a className="text-blue-600">no response for over two days</a>. This doesn't mean the person ignores you. They maybe are just busy. Send a <a className="text-blue-600">friendly reminder after 48h</a>. But keep in mind there's holidays, etc.</p>
+            <p>Sometimes you just get <a className="text-blue-600">no response for over two days</a>. This doesn&apos;t mean the person ignores you. They maybe are just busy. Send a <a className="text-blue-600">friendly reminder after 48h</a>. But keep in mind there&apos;s holidays, etc.</p>
 
             <br />
             <br />
