@@ -9,59 +9,53 @@ function App() {
 
       <br />
 
-      <p>Hey! I&apos;m Lennard, a passionate software builder born in 2005. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design. To keep this intro short, you can find more details <span className="text-blue-600 hover:underline"><Link href={"/"}>here</Link></span>.</p>
+      <p>Hey! There are a <a className="text-blue-600">few rules to DM</a> users on the internet. This can be <a className="text-blue-600">Discord, Twitter or just mail</a>. Please <a className="text-blue-600">follow these rules to get the best response</a>. Also people will enjoy working with you more.</p>
 
       <br />
 
       <div>
-        <p className="underline-offset-5 text-xl underline">Some projects I built:</p>
+        <p className="underline-offset-5 text-xl underline">The rules are quiet simple:</p>
+
+        <br />
 
         <div>
+            <p className="underline-offset-5 underline text-2xl">Say what you want.</p>
 
+            <br />
+
+            <p>When messaging, please state <a className="text-blue-600">exactly what you need</a>. Most people are really busy, so we can <a className="text-blue-600">sort what to respond to</a>. Most people want to help, but still have other tasks to organize.</p>
+
+            <br />
+
+            <a className="text-green-800 text-xl">Good example:</a>
+            <br />
+            <code>Hey Lennard. I am a designer and want to turn my design into a functional website. Can you help with with this at the moment? </code>
+            
+            <br />
+            <br />
+
+            <a className="text-red-800 text-xl">Bad example:</a>
+            <br />
+            <code>Hello. How are you?</code>
+
+            <br />
+            <br />
+
+        </div>
+
+        <div>
+            <p className="underline-offset-5 underline text-xl">Send reminders.</p>
+
+            <br />
+
+            <p>Sometimes you just get <a className="text-blue-600">no response for over two days</a>. This doesn't mean the person ignores you. They maybe are just busy. Send a <a className="text-blue-600">friendly reminder after 48h</a>. But keep in mind there's holidays, etc.</p>
+
+            <br />
+            <br />
         </div>
         </div>
       <br />
 
-      <div>
-        <p className="underline-offset-5 text-xl underline">Some projects I built:</p>
-
-        <div>
-          <div>
-            <li>
-              <Link href="/" className="text-blue-600 hover:underline"> OneLiner (1.5k users) </Link>
-
-              was a Figma plugin that allows you to create copywriting for your startup&apos;s landing page. It was featured in Ben&apos;s Bites.
-            </li>
-
-            <li><Link href="/" className="text-blue-600 hover:underline">FeedAI (2.7k users) </Link> a small webapp I created for the LeapAI hackathon. I also won it, getting featued in Ben&apos;s Bites. FeedAI allowed users to train an AI model on their Instagram posts, to create images that are similar. Sadly it was never approved by Facebook.</li>
-          </div>
-        </div>
-      </div>
-
-      <br />
-
-      <div>
-        <p className="underline-offset-5 text-xl underline">Stuff I&apos;m hacking on:</p>
-
-        <div>
-          I currently deliver <a className="text-blue-600">contracting work</a> to many clients around the world, mainly <a className="text-blue-600">providing full-stack and custom AI solutions</a>.
-
-          <br />
-          <br />
-
-          Apart from this I also work on different projects, like <a className="text-blue-600">automating agency workflows with AI and Zapier</a> or creating a <a className="text-blue-600">tool to manage accounting reports for small businesses</a>. All of those are collaborations with other teams or companies, but I also work with students on a <a className="text-blue-600">next-gen accountability tool for friends</a>, which we try to market with TikTok.
-
-          <br />
-          <br />
-
-          In my freetime I also hack on a <a className="text-blue-600">custom keyboard</a>, where I play with QMK and also am creating my first own PCB. This is a topic, like <a className="text-blue-600">embedded engineering</a>, that I would like to explore.
-
-          <br />
-          <br />
-
-          Other things I work on are <a className="text-blue-600">learning UI/UX design</a> and hitting a new record <a className="text-blue-600">biking min. 100km/week</a> or just building stuff in communities like <a className="text-blue-600">f.inc</a>,  <a className="text-blue-600">NextGen</a> and  <a className="text-blue-600">Buildspace</a>.
-        </div>
-      </div>
     </div>
   );
 }
