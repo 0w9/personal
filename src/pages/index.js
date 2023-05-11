@@ -51,7 +51,7 @@ function App() {
           <br />
           <br />
 
-          Other things I work on are <a className="text-blue-600">learning UI/UX design</a> and hitting a new record <a className="text-blue-600">biking min. 100km/week</a> or just building stuff in communities like <a className="text-blue-600">f.inc</a>,  <a className="text-blue-600">NextGen</a> and  <a className="text-blue-600">Buildspace</a>.
+          Other things I work on are <a className="text-blue-600">learning UI/UX design</a> and hitting a new record <a className="text-blue-600">biking min. 100km/week</a> or just building stuff in communities like <a className="text-blue-600">f.inc</a>,  <a className="text-blue-600">NexGen</a> and  <a className="text-blue-600">Buildspace</a>.
         </div>
       </div>
     </div>

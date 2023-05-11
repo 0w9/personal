@@ -14,7 +14,7 @@ function App() {
       <br />
 
       <div>
-        <p className="underline-offset-5 text-xl underline">The rules are quiet simple:</p>
+        <p>The rules are quiet simple:</p>
 
         <br />
 
@@ -48,7 +48,7 @@ function App() {
 
             <br />
 
-            <p>Sometimes you just get <a className="text-blue-600">no response for over two days</a>. This doesn't mean the person ignores you. They maybe are just busy. Send a <a className="text-blue-600">friendly reminder after 48h</a>. But keep in mind there's holidays, etc.</p>
+            <p>Sometimes you just get <a className="text-blue-600">no response for over two days</a>. This doesn't mean the person ignores you. They maybe are just busy. Send a <a className="text-blue-600">friendly reminder after 48h</a>. But keep in mind there&amp;s holidays, etc.. Just make sure to <a className="text-blue-600">don&amp;t spam those reminders</a>, which also can be annoying. You can get a good feeling when to send or not.</p>
 
             <br />
             <br />
