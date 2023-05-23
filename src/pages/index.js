@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="mt-10 max-w-3xl mx-auto px-10">
       <div class="flex justify-between items-center text-3xl">
-        <span className="text-3xls underline" style={{ fontFamily: "Lora"}}>Lennard</span>
+        <span className="text-3xls underline" style={{ fontFamily: "Lora"}}>Lennard</span><i class="gg-link"></i>
       </div>
 
       <br />

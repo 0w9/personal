@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url(//db.onlinewebfonts.com/c/df180f85d58e18017bf4cfa28468be6b?family=Louize);
+@import url('https://css.gg/css');
 
 :root {
   --foreground-rgb: 0, 0, 0;
