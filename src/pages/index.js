@@ -36,7 +36,7 @@ function App() {
             <div>
               <div>
                   <li>I really like gravel-biking, all my activities are uploaded on <Link href="https://www.strava.com/athletes/98819139" className="text-blue-600 hover:underline">Strava </Link>. I try to hit 100km/ week.</li>
-                  <li>My faviourite drink is <Link disabled href="/" className="text-blue-600 hover:underline">japanese green tea</Link>. I'm really addicted to it, but it has good health benefits! My dream is to grow and roast my own in the future.</li>
+                  <li>My faviourite drink is <Link disabled href="/" className="text-blue-600 hover:underline">japanese green tea</Link>. I&apos;m really addicted to it, but it has good health benefits! My dream is to grow and roast my own in the future.</li>
                   <li>Some stuff I want to experiment with is <Link className="text-blue-600 hover:underline" href="/">custom keyboards</Link>, <Link className="text-blue-600 hover:underline" href="/">design</Link> and <Link className="text-blue-600 hover:underline" href="/">watchmaking</Link>.</li>
                   <li>I enjoy <Link disabled href="/" className="text-blue-600 hover:underline">good discussions</Link> about controversial topics, but I have a clear opinion: Because they feel like humans, <Link className="text-blue-600 hover:underline" href="/">animals need more rights </Link>and humane conditions to be raised and processed. I try to wear clothign that supports good labour and the best animal conditions.</li>
                   <li>For 7 years I competed in <Link disabled href="/" className="text-blue-600 hover:underline">fencing tournaments</Link>, but stopped when I did more programming!</li>
