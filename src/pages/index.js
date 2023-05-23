@@ -15,6 +15,13 @@ function App() {
 
           <br />
 
+          <div class="bg-blue.100 border-l-4 border-blue-500 text-blue-700 p-4" role="alert">
+            <p class="font-bold">Freelancing status</p>
+            <p>Currently taking new clients! Message me with more info.</p>
+          </div>
+
+          <br />
+
           <div>
             <p className="underline-offset-5 text-xl underline">Some projects I built:</p>
 
