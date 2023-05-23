@@ -4,17 +4,13 @@ function App() {
   return (
     <div className="mt-10 max-w-3xl mx-auto px-10">
       <div class="flex justify-between items-center text-3xl">
-        <span className="decoration-double text-3xls">Lennard</span>
+        <span className="text-3xls underline" style={{ fontFamily: "Lora"}}>Lennard</span>
       </div>
 
-      <br />
-      <div class="divide-y divide-blue-600 border-solid" />
       <br />
 
       <p>Hey! I&apos;m Lennard, a passionate software builder born in 2005. I mainly work on full-stack apps using NextJS/ React, but I am also experimenting with custom keyboards (firmware, PCB design) and design. To keep this intro short, you can find more details <span className="text-blue-600 hover:underline"><Link href={"/"}>here</Link></span>.</p>
 
-      <br />
-      <div class="divide-y divide-blue-600 border-solid" />
       <br />
 
       <div>
@@ -33,8 +29,6 @@ function App() {
         </div>
       </div>
 
-      <br />
-      <div class="divide-y divide-blue-600 border-solid" />
       <br />
 
       <div>
