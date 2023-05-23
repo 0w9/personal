@@ -2,10 +2,12 @@ import Link from "next/link";
 
 function App() {
   return (
-    <div className="flex items-center justify-center h-screen max-w-3xl mx-auto px-10">
+    <div className="flex items-center justify-center h-screen max-w-3xl mx-auto px-10 overflow-y-auto">
       <div>
         <div className="flex justify-between items-center text-3xl">
-          <span className="text-3xls" style={{ fontFamily: "Lora"}}>Lennard</span>
+          <span className="text-3xl" style={{ fontFamily: "Lora" }}>
+            Lennard
+          </span>
         </div>
 
         <br />
