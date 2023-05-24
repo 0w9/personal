@@ -1,6 +1,7 @@
 import Link from "next/link";
+import { NextSeo } from 'next-seo';
 
-function App() {
+export default function App() {
   return (
     <div className="flex justify-center min-h-screen p-4 overflow-y-auto">
       <div>
@@ -132,5 +133,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
