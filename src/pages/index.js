@@ -2,16 +2,15 @@ import Link from "next/link";
 
 function App() {
   return (
-    <div className="flex items-center justify-center h-screen">
-      <div className="max-w-3xl mx-auto px-10 overflow-y-auto">
-        <div>
-          <div className="flex justify-between items-center text-3xl">
-            <span className="text-3xl" style={{ fontFamily: "Lora" }}>
-              Lennard
-            </span>
-          </div>
+    <div className="flex items-center justify-center min-h-screen p-4 overflow-y-auto">
+      <div>
+        <div className="flex justify-between items-center text-2xl">
+          <span className="text-2xl" style={{ fontFamily: "Lora" }}>
+            Lennard
+          </span>
+        </div>
 
-          <br />
+        <br />
 
         <div style={{ fontFamily: "Raleway" }}>
           <p className="text-sm md:text-base">
@@ -129,7 +128,6 @@ function App() {
 
           <br />
         </div>
-      </div>
       </div>
     </div>
   );
