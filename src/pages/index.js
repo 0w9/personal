@@ -32,9 +32,15 @@ export default function App() {
 
           <div>
             <p className="text-lg md:text-xl underline">Some projects I built:</p>
-
+            <p>These projects are sorted by how recent they got updated/ launched.</p>
             <div>
               <ul>
+                <li className="text-sm md:text-base">
+                  <Link target="_blank" href="https://github.com/0w9/langchain-discord" className="text-blue-600 hover:underline">
+                    LangChain-Discord
+                  </Link>{" "}
+                  is a package I created on a weekend, which allows you to add Discord tools to your LangChain agent.
+                </li>
                 <li className="text-sm md:text-base">
                   <Link target="_blank" href="/" className="text-blue-600 hover:underline">
                     Atlas
