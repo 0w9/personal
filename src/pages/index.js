@@ -34,7 +34,7 @@ export default function App() {
             <p className="text-lg md:text-xl underline">Some projects I built:</p>
             <p>These projects are sorted by how recent they got updated/ launched.</p>
             <div>
-              <ul>
+              <ul className="list-disc ml-10">
                 <li className="text-sm md:text-base">
                   <Link target="_blank" href="https://github.com/0w9/langchain-discord" className="text-blue-600 hover:underline">
                     LangChain-Discord
